@@ -8,7 +8,7 @@ on:
 jobs:
  hello:
   run-on: ubuntu-latest
-  
+
   steps:
    - name: Welcome Message
-     run: echo"Hello from github actions"
+     run: echo "Hello from github actions"
