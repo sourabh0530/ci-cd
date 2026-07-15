@@ -1,1 +1,1 @@
-cosole.log("welcome to ci/cd demo");
+console.log("welcome to ci/cd demo");
